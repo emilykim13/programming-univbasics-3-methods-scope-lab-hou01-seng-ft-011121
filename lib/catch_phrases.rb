@@ -9,3 +9,5 @@ def toadstool
   puts status
 end
 
+def link
+  
