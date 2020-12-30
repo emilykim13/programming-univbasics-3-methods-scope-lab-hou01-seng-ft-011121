@@ -16,4 +16,5 @@ end
 
 def all_phrases
   all_phrases = phrase status link_phrase
+  puts phrase status link_phrase
 end
