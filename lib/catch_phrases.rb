@@ -20,3 +20,5 @@ def all_phrases
    link_phrase = "It's Dangerous To Go Alone! Take This."
    puts phrase status link_phrase
  end
+ end
+ 
