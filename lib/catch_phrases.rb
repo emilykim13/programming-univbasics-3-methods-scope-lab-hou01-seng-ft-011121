@@ -15,6 +15,6 @@ def link
 end
 
 def all_phrases
-  all_phrases = phrase status link_phrase
+"puts out all of the previous catch phrases"
   puts phrase status link_phrase
 end
