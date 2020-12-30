@@ -15,6 +15,9 @@ def link
 end
 
 def all_phrases
-  
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts status
+   phrase = "It's-a me, Mario!"
+  puts phrase
   puts phrase status link_phrase
 end
