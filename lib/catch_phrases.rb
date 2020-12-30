@@ -15,7 +15,5 @@ def link
 end
 
 def all_phrases
-  all_phrases 
-  phrase = "It's-a me, Mario!"
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  link_phrase = "It's Dangerous To Go Alone! Take This."
+  all_phrases = phrase status link_phrase
+end
